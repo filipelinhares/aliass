@@ -1,1 +1,1 @@
-alias aliass-v="print 1.0.0"
+alias aliass-v="print 0.1.0"
