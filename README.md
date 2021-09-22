@@ -1,4 +1,6 @@
-# Aliass v0.1.0
+# Aliass
+
+[![Aliass version](https://badge.fury.io/gh/filipelinhares%2Faliass.svg)](https://badge.fury.io/gh/filipelinhares%2Faliass)
 
 My aliases.
 
